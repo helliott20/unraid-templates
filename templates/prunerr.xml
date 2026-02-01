@@ -6,7 +6,7 @@
     <Network>bridge</Network>
     <Shell>sh</Shell>
     <Privileged>false</Privileged>
-    <Support>https://github.com/helliott20/prunerr/issues</Support>
+    <Support>https://forums.unraid.net/topic/196929-support-prunerr-media-library-cleanup-tool/</Support>
     <Project>https://github.com/helliott20/prunerr</Project>
     <Overview>Prunerr is a media library cleanup and management tool designed to work with Plex, Sonarr, and Radarr.&#xD;
 &#xD;
