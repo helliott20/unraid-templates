@@ -16,7 +16,7 @@ Features:&#xD;
 - Plex integration: Pulls library data and watch history directly from your Plex server&#xD;
 - Tautulli integration: Advanced watch history analysis for accurate play tracking&#xD;
 - Sonarr and Radarr integration: Intelligently removes media through your *arr stack&#xD;
-- Overseerr integration: Tracks who requested content and optionally resets requests&#xD;
+- Seerr integration: Tracks who requested content and optionally resets requests&#xD;
 - Grace periods: Configurable retention periods before items are deleted&#xD;
 - Deletion queue: Review and approve flagged items before removal&#xD;
 - Discord notifications: Get notified about cleanup actions&#xD;
